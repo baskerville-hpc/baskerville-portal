@@ -96,7 +96,7 @@ This work is licensed under a GNU General Public License v3.0. See `LICENSE.md` 
 
 Email us: baskerville-tier2-support@contacts.bham.ac.uk
 
-Project Link: [https://github.com/baskerville-hpc/intro-to-hpc](https://github.com/baskerville-hpc/intro-to-hpc)
+Project Link: [https://github.com/baskerville-hpc/baskerville-portal](https://github.com/baskerville-hpc/baskerville-portal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
