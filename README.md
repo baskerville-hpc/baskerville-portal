@@ -26,15 +26,19 @@
 
 
 
-<!-- ![screenshot](images/logo.png) TODO: replace with screenshot -->
+![screenshot](images/screenshot.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Training resources for an introduction to Baskerville Portal for beginners. This covers:
 
-1. Item 1
-2. Item 2
+1. What is Baskerville Portal?
+2. Connect and Configure Baskerville Portal
+3. JupterLab
+     - a. Module Loading
+     - b. Conda Environments
+4. Final Task: Build PyTorch in a Conda Environment
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
