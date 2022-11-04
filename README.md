@@ -106,6 +106,7 @@ Project Link: [https://github.com/baskerville-hpc/baskerville-portal](https://gi
 ## Acknowledgments
 
 * [Jenny Wong](https://github.com/jnywong)
+* [James Allsopp](https://github.com/JamesAllsopp)
 * [Baskerville](https://github.com/baskerville-hpc)
 * [BEAR Research Software Group](https://github.com/bear-rsg)
 
