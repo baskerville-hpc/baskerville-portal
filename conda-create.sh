@@ -22,7 +22,7 @@ eval "$(${EBROOTMINICONDA3}/bin/conda shell.bash hook)" # initialise Conda
 # N.B. this path will be created by the subsequent commands if it doesn't already exist
 export CONDA_ENV_PATH="/bask/projects/m/myproject/my_conda_env"
 
-export CONDA_PKGS_DIRS=/tmp # Download packages to temporary storage
+export CONDA_PKGS_DIRS="/tmp" # Download packages to temporary storage
 
 # Create the environment. Only required once.
 conda create --yes --prefix "${CONDA_ENV_PATH}"
