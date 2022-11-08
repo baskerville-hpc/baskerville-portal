@@ -26,15 +26,19 @@
 
 
 
-<!-- ![screenshot](images/logo.png) TODO: replace with screenshot -->
+![screenshot](images/screenshot.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Training resources for an introduction to Baskerville Portal for beginners. This covers:
 
-1. Item 1
-2. Item 2
+1. What is Baskerville Portal?
+2. Connect and Configure Baskerville Portal
+3. JupterLab
+     - a. Module Loading
+     - b. Conda Environments
+4. Final Task: Build PyTorch in a Conda Environment
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,6 +76,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+Images of code snippets were generated using [Carbon](https://carbon.now.sh/), and a configuration file, `carbon-config.json`, is provided.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -90,7 +96,7 @@ This work is licensed under a GNU General Public License v3.0. See `LICENSE.md` 
 
 Email us: baskerville-tier2-support@contacts.bham.ac.uk
 
-Project Link: [https://github.com/baskerville-hpc/intro-to-hpc](https://github.com/baskerville-hpc/intro-to-hpc)
+Project Link: [https://github.com/baskerville-hpc/baskerville-portal](https://github.com/baskerville-hpc/baskerville-portal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,6 +106,7 @@ Project Link: [https://github.com/baskerville-hpc/intro-to-hpc](https://github.c
 ## Acknowledgments
 
 * [Jenny Wong](https://github.com/jnywong)
+* [James Allsopp](https://github.com/JamesAllsopp)
 * [Baskerville](https://github.com/baskerville-hpc)
 * [BEAR Research Software Group](https://github.com/bear-rsg)
 
