@@ -5,7 +5,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
 
 
 
@@ -127,4 +127,4 @@ Baskerville is funded by the EPSRC and UKRI through the World Class Labs scheme 
 [issues-shield]: https://img.shields.io/github/issues/baskerville-hpc/baskerville-portal.svg?style=for-the-badge
 [issues-url]: https://github.com/baskerville-hpc/baskerville-portal/issues
 [license-shield]: https://img.shields.io/github/license/baskerville-hpc/baskerville-portal.svg?style=for-the-badge
-[license-url]: http://creativecommons.org/licenses/by-sa/4.0/
+[license-url]: https://github.com/baskerville-hpc/baskerville-portal/blob/main/LICENSE.md
