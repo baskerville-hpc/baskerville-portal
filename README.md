@@ -35,7 +35,7 @@ Training resources for an introduction to Baskerville Portal for beginners. This
 
 1. What is Baskerville Portal?
 2. Connect and Configure Baskerville Portal
-3. JupterLab
+3. JupyterLab
      - a. Module Loading
      - b. Conda Environments
 4. Final Task: Build PyTorch in a Conda Environment
